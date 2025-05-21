@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Nivel do Austismo.unity
     guid: c90f6fd0315bf1e499632e39faa98d7e
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: 70478d6ca6a365b4498ab5e28d774d99
   m_configObjects: {}
